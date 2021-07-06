@@ -7,4 +7,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Programmers look for other forms of help before talking to coworkers. "help me stackoverflow you are my only hope"
 
-(https://github-readme-stats.vercel.app/api?username=josanjohnata&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josanjohnata&show_icons=true&theme=radical)
