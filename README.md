@@ -4,7 +4,8 @@
 - 🌱 I am currently studying fullstack Web Development.
 - :rocket:  Hire me : https://bit.ly/LinkedInJohnata
 - 💬 Ask me something: josanjohnata@gmail.com
-- :page_facing_up: My curriculum vitae: https://gitconnected.com/josanjohnata 
+- :page_facing_up: My curriculum vitae: https://gitconnected.com/josanjohnata
+
 
  <div>
   <a href="https://github.com/josanjohnata">
