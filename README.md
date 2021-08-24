@@ -33,6 +33,6 @@
  
  <hr/>
  
- <h2>Thank you for visiting my profile. <g-emoji class="g-emoji" alias="gem" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png"><img class="emoji" alt="gem" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png"></g-emoji></h2>
+ <h2>Thank you for visiting my profile.</h2>
 
  <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ad892550e385bf3b75e9f5cfca78889568c08180e132c4aab474cdbc24689fce/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6c75616e6c73722f636f756e742e737667"><img src="https://camo.githubusercontent.com/ad892550e385bf3b75e9f5cfca78889568c08180e132c4aab474cdbc24689fce/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6c75616e6c73722f636f756e742e737667" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/josanjohnata/count.svg" style="max-width:100%;"></a></p>
