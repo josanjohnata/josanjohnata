@@ -6,7 +6,6 @@
 - 📄 My curriculum vitae: https://gitconnected.com/josanjohnata
 - 🖥️ My portfolio in development: https://josanjohnata.github.io/Josan-Johnata-Portfolio/
 
-
  <div>
   <a href="https://github.com/josanjohnata">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josanjohnata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
