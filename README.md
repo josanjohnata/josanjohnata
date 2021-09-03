@@ -4,7 +4,6 @@
 - 🚀  Hire me : https://bit.ly/LinkedInJohnata
 - 💬 Ask me something: josanjohnata@gmail.com
 - 📄 My curriculum vitae: https://gitconnected.com/josanjohnata
-- 🖥️ My portfolio in development: https://josanjohnata.github.io/Josan-Johnata-Portfolio/
 
  <div>
   <a href="https://github.com/josanjohnata">
