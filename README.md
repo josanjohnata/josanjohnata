@@ -4,7 +4,7 @@
 - 👨‍💻 I'm working on <a href="https://www.meliuz.com.br/i/ref_8e2468b5?ref_source=2">Méliuz</a>.
 - 🚀  Hire me : https://bit.ly/LinkedInJohnata
 - 💬 Ask me something: josanjohnata@gmail.com
-- 📄 My curriculum vitae: https://gitconnected.com/josanjohnata/resume
+<!-- - 📄 My curriculum vitae: https://gitconnected.com/josanjohnata/resume -->
 
  <div>
   <a href="https://github.com/josanjohnata">
