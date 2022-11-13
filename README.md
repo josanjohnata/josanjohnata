@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Josan Johnata
 - 🔭 I have a degree in Information Security.
-- 🌱 I am currently studying fullstack Web Development.
+- 🌱 I am in constant learning.
 - 👨‍💻 I'm working on <a href="https://www.meliuz.com.br/i/ref_8e2468b5?ref_source=2">Méliuz</a>.
 - 🚀  Hire me : https://bit.ly/LinkedInJohnata
 - 💬 Ask me something: josanjohnata@gmail.com
