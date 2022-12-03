@@ -53,7 +53,7 @@
 
  <div style="display: flex" align-items="center">
    <img height="40" width="40" margin-left="10" align=center src='https://user-images.githubusercontent.com/64118585/205079013-2fbb8241-c710-480a-bd35-77c29085f282.png'>
-   <a href='https://josan-johnata-developer.vercel.app/'>@josanjohnata</a>
+   <a href='https://josan-johnata-developer.vercel.app/' target={_blank} >@josanjohnata</a>
  </div>
 <h2><h2/>
 <div>
