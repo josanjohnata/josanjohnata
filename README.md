@@ -41,19 +41,23 @@
 
   🙋 Full Stack Developer, content creation and coffee!
   
-  💼 Working as a Mobile Developer
+  💼 Working as a Mobile Developer at <a href="https://www.meliuz.com.br/i/ref_8e2468b5?ref_source=2">Méliuz</a>
 
-<h3>⚙️ Stack</h3>
+<h3>⚙️ Tech Stack I1m curretly using</h3>
 
-  💻 Linux/MacOS ● React Native ● Swift ● Javascript ● Information Security
+  💻 Linux/MacOS ● React Native ● Typescript ● Javascript ● HTML ● CSS
   
-  ⭐ Xcode ● VsCode ● Git/GitHub ● Vim
+  ● VsCode ● Git/GitHub ● Vim
+ 
+<h3>📚 Tech Stack I'm curretly learning</h3>
+
+  ● Swift ● Kotlin ● NodeJs
 
 <h3>🛠️ Projects:</h3>
 
  <div style="display: flex" align-items="center">
    <img height="40" width="40" margin-left="10" align=center src='https://user-images.githubusercontent.com/64118585/205079013-2fbb8241-c710-480a-bd35-77c29085f282.png'>
-   <a href='https://josan-johnata-developer.vercel.app/' target={"_blank"} >@josanjohnata</a>
+   <a href='https://josan-johnata-developer.vercel.app/' target="_blank" >@josanjohnata</a>
  </div>
 <h2><h2/>
 <div>
