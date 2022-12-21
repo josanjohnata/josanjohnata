@@ -43,7 +43,7 @@
   
   💼 Working as a Mobile Developer at <a href="https://www.meliuz.com.br/i/ref_8e2468b5?ref_source=2">Méliuz</a>
 
-<h3>⚙️ Tech Stack I1m curretly using</h3>
+<h3>⚙️ Tech Stack I'm curretly using</h3>
 
   💻 Linux/MacOS ● React Native ● Typescript ● Javascript ● HTML ● CSS
   
