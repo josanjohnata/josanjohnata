@@ -45,7 +45,7 @@
 
 <h3>⚙️ Tech Stack I'm curretly using</h3>
 
-  💻 Linux/MacOS ● React Native ● Typescript ● Javascript ● HTML ● CSS
+ 💻 Linux/MacOS ● React Native ● ~Javascript~ ● Typescript ● HTML ● CSS
   
   ● VsCode ● Git/GitHub ● Vim
  
