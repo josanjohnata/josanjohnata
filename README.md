@@ -51,7 +51,7 @@
  
 <h3>📚 Tech Stack I'm curretly learning</h3>
 
-  ● Swift ● Kotlin ● NodeJs
+  ● Swift ● Kotlin ● NodeJs ● TDD
 
 <h3>🛠️ Projects:</h3>
 
