@@ -45,13 +45,13 @@
 
 <h3>⚙️ Tech Stack I'm curretly using</h3>
 
- 💻 Linux/MacOS ● React Native ● ~Javascript~ ● Typescript ● HTML ● CSS
+ ● React Native ● ~Javascript~/Typescript ● Styled Component ● Jest
   
-  ● VsCode ● Git/GitHub ● Vim
+  ● VsCode ● Git/GitHub ● Vim ● Scrum
  
 <h3>📚 Tech Stack I'm curretly learning</h3>
 
-  ● Swift ● Kotlin ● NodeJs ● TDD
+  ● Swift/SwiftUI ● UIKti ● NodeJs ● TDD
 
 <h3>🛠️ Projects:</h3>
 
