@@ -50,7 +50,7 @@
  
 <h3>📚 Tech Stack I'm curretly learning</h3>
 
-  ● Swift/SwiftUI ● UIKti ● NodeJs ● TDD
+  ● Swift/SwiftUI ● UIKit ● NodeJs ● TDD
 
 <h3>🛠️ Projects:</h3>
 
