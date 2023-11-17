@@ -31,7 +31,6 @@
 </div>
  <hr/>
 -->
- 
 <div align="center">
 <h2>Hello, I am Josan Johnata :)</h2>
 
