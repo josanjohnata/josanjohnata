@@ -6,7 +6,6 @@
 - 💬 Ask me something: josanjohnata@gmail.com
 <!-- - 📄 My curriculum vitae: https://gitconnected.com/josanjohnata/resume -->
 
- 
  <!--
  <hr/>
  <div style="display: inline_block" align="center"><br>
