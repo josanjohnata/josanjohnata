@@ -38,7 +38,7 @@
 
   🙋 Mobile Developer, content creation and coffee!
   
-  💼 Working as a Mobile Developer at <a href="https://www.meliuz.com.br/i/ref_8e2468b5?ref_source=2">Méliuz</a>
+  💼 Working as a Mobile Developer at <a href="https://www.questrade.com/">Questrade Financial Group</a>
 
 <h3>⚙️ Tech Stack I'm curretly using</h3>
 
