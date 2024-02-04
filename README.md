@@ -48,7 +48,7 @@
  
 <h3>📚 Tech Stack I'm curretly learning</h3>
 
-  ● Swift/SwiftUI ● UIKit ● NodeJs ● C++ ● TDD
+  ● Swift/SwiftUI ● UIKit ● Kotlin ● NodeJs ● C++ ● TDD
 
 <h3>🛠️ Projects:</h3>
 
