@@ -44,7 +44,7 @@
 
  ● React Native ● Javascript/Typescript ● Styled Component ● Jest
   
-  ● VsCode ● Git/GitHub ● Vim ● Scrum
+  ● VsCode ● Git/GitHub ● Vim ● Scrum ● [Git/GitLab](https://git.questrade.com/jpontes)
  
 <h3>📚 Tech Stack I'm curretly learning</h3>
 
