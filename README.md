@@ -42,7 +42,7 @@
 
 <h3>⚙️ Tech Stack I'm curretly using</h3>
 
- ● React Native ● Javascript/Typescript ● Styled Component ● Jest
+ ● React Native ● Typescript ● Styled Component ● Jest
   
   ● VsCode ● Git/GitHub ● Vim ● Scrum ● [Git/GitLab](https://git.questrade.com/jpontes)
  
