@@ -60,6 +60,6 @@
 <div>
   <a href="https://github.com/josanjohnata">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josanjohnata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josanjohnata&hide_progress=true&langs_count=6&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josanjohnata&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
